@@ -3,5 +3,8 @@ h1 {
 }
 
 div.center {
-  align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
